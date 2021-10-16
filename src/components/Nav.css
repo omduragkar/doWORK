@@ -1,0 +1,15 @@
+#sm
+{
+    display:none;
+}
+@media screen and (max-width: 510px)
+{
+    #sm
+    {
+        display: inline-block;
+    }    
+    li
+    {
+        display: none;
+    }
+}

@@ -1,0 +1,18 @@
+form{
+    font-size: x-large;
+}
+
+@media screen and (max-width: 500px)
+{
+    .image
+    {
+        display: none;
+    }
+    .btn
+    {
+        margin-left: auto;
+        width: 50%;
+        text-align: center;
+    }
+    
+}
